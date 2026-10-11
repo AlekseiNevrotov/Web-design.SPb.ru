@@ -1,8 +1,8 @@
-# Web-Design.SPb (2011–2026) 🌐
+# Web-Design.SPb 🌐
 
-This repository contains the complete production-ready source code of **Web-Design.SPb** — a turnkey web design and development agency based in St. Petersburg, Russia. 
+This repository contains the complete production-ready source code of **Web-Design.SPb** — a turnkey web design and development platform based in St. Petersburg, Russia.
 
-After 15 years of successful operations, analyzing the niche shifts, and facing modern internet architecture limitations, the project was officially archived in October 2026. The entire codebase is now completely open-source for the global developer and designer community.
+While the author has been working in the professional design and digital industry since **2009**, this specific platform was launched to synthesize long-term expertise into production-ready web products. Following a strategic niche analysis and modern internet architecture limitations, the digital platform was officially archived in October 2026. The entire codebase is now completely open-source for the global developer and designer community.
 
 ## 🛠️ Tech Stack & Features
 The project combines clean, high-performance UI/UX design with custom web applications and deep infrastructure automation:
