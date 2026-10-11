@@ -1,4 +1,4 @@
-# Web-Design.SPb 🌐
+# 🌐 Web-Design.SPb.ru
 
 This repository contains the complete production-ready source code of **Web-Design.SPb** — a turnkey web design and development platform based in St. Petersburg, Russia.
 
